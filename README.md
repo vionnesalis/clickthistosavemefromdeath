@@ -1,3 +1,6 @@
+Before You Read This Please Listen To The Bandcamp In My Description It Will Explain Everything That Is Nothing
+
+
 Vionne,
 
 I just wanted to tell you that everything is okay.
