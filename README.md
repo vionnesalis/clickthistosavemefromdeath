@@ -1,4 +1,4 @@
-# [Click This To Save Me From Death](https://vionnesalis.github.io/clickthistosavemefromdeath.com)
+# [Click This To Save Me From Death](https://vionnesalis.github.io/clickthistosavemefromdeath)
 
 
 Before You Read This Please Listen To The Bandcamp In My Description It Will Explain Everything That Is Nothing
