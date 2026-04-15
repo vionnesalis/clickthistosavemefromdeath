@@ -99,8 +99,8 @@
 <body>
     <div class="container">
         <div id="waitingMessage"></div>
-        <h1>Now</h1>
-        <input type="text" id="inputBox" placeholder="create away...">
+        <h1>Find A Way To Me</h1>
+        <input type="text" id="inputBox" placeholder="Type in anything...">
         <div id="response"></div>
     </div>
     <div class="keyboard-container" id="keyboard"></div>
@@ -137,7 +137,7 @@
 
         window.onload = function() {
             const randomNumber = generateRandomNumber(10000, 12000);
-            waitingMessage.innerText = `There are ${randomNumber} on this site, please be patient as there may be delayed loading times.`;
+            waitingMessage.innerText = `There are ${randomNumber} people on this site, please be patient as there may be delayed loading times.`;
         };
 
         inputBox.addEventListener('input', function() {
